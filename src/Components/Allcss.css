@@ -1,0 +1,31 @@
+.topImg{
+    border-radius: 5px
+}
+.popup-content{
+    width: 500px !important;
+}
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+  
+  }
+  
+  .th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+    font-weight: bold
+  }
+  
+.adminlogin{
+  background-color: #3f50b5 !important;
+  color: white;
+  text-align: center
+}
+
+  
+  .footerBack{
+    background-color: #3f50b5
+  }
+
+  
